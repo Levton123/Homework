@@ -1,2 +1,4 @@
-# -1
-Kotlin Quiz Trainer - Anime 
+ФИО: Еремеев Александр Николаевич
+Группа: Б9123-09.03.01 ЦД
+Тема квиза: Аниме - популярные сериалы и персонажи
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/98ff7054-88e3-46a9-8a8f-44958582a907" />
